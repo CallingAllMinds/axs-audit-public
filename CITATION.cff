@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "AXS Audit Public Resources"
+message: "If you reference this public documentation, please cite Calling All Minds."
+type: dataset
+authors:
+  - name: "Calling All Minds"
+url: "https://github.com/CallingAllMinds/axs-audit-public"
+repository-code: "https://github.com/CallingAllMinds/axs-audit-public"
+abstract: "Public methodology, standards mapping and accessibility resources for AXS Audit by Calling All Minds."
+keywords:
+  - accessibility
+  - digital-accessibility
+  - WCAG
+  - cognitive-accessibility
+  - neurodiversity
+  - assistive-technology
+license: "LicenseRef-Calling-All-Minds-Public-Documentation"
