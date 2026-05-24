@@ -50,3 +50,22 @@ AXS Audit is informed by:
 ## Future ACT Rules documentation
 
 Calling All Minds intends to document the ACT Rules implemented by AXS Audit where applicable. ACT Rules documentation will be added only where checks have been mapped, tested and evidenced.
+
+## Repository status
+
+This is a public documentation repository. It does not contain the source code for AXS Audit.
+
+## Public documentation
+
+For a simple index of the public documentation, see:
+
+[Documentation Index](docs/index.md)
+
+## Security
+
+Please do not report security vulnerabilities through public GitHub issues. See [SECURITY.md](SECURITY.md).
+
+## Disclaimer
+
+See [DISCLAIMER.md](DISCLAIMER.md) for important notes about automated accessibility testing, standards references and limitations.
+
